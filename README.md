@@ -46,6 +46,7 @@ Tools for finding and qualifying potential buyers.
 
 | Tool | Description | Pricing |
 |------|-------------|---------|
+| [Prep5](https://prep5.salesably.ai/) | AI research in under 5 minutes. Generates call scripts, talking points, and prospect intelligence from LinkedIn/email. | $5 credits |
 | [Apollo.io](https://www.apollo.io/) | 265M+ contacts database with AI-powered search, enrichment, and sequencing. | Free - $99/mo |
 | [Clay](https://www.clay.com/) | AI research agents that find, enrich, and score leads from 130+ data sources. | $149/mo+ |
 | [ZoomInfo](https://www.zoominfo.com/) | Enterprise B2B intelligence platform with AI-powered intent data. | Contact sales |
