@@ -23,6 +23,7 @@ AI is reshaping every aspect of sales—from prospecting and outreach to coachin
 - [Open Source Projects](#open-source-projects)
 - [Agent Frameworks](#agent-frameworks)
 - [Research & Reports](#research--reports)
+- [Academic Research](#academic-research)
 - [Contributing](#contributing)
 
 ---
@@ -201,6 +202,49 @@ Industry research on AI in sales.
 - [Outreach: Prospecting 2025](https://www.outreach.io/resources/research) — 54% of teams using AI for outbound emails
 - [Seismic: State of AI in Enablement](https://www.seismic.com/resources/) — 82% of AI adopters increasing investment
 - [McKinsey: Sales & AI](https://www.mckinsey.com/) — 25-30% increase in conversion rates with AI
+
+## Academic Research
+
+Peer-reviewed research on AI in sales from leading institutions.
+
+### Key Papers
+
+| Paper | Authors | Year | Key Finding |
+|-------|---------|------|-------------|
+| [Do AI Role Plays Improve Sales Performance?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5717822) | Habel, Ahearne, Tirunillai, Novak | 2025 | 7-35% improvement for specific segments; repetition matters (~1.2% per episode) |
+| [AI Agents, Agentic AI, and the Future of Sales](https://www.sciencedirect.com/science/article/abs/pii/S0148296325006228) | Gonzalez, Habel, Hunter | 2026 | AI agent market: $7.6B (2025) → $139B (2033) |
+| [AI in Sales: Laying the Foundations](https://www.tandfonline.com/doi/full/10.1080/08853134.2024.2329905) | McClure, Epler, Schmitt, Rangarajan | 2024 | AI predicted to fulfill 60% of sales tasks by 2028 |
+| [AI Coaches for Sales Agents: Caveats and Solutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3704283) | Luo, Qin, Fang, Qu | 2021 | AI coaching works best with human oversight |
+| [Sell Me This Artificial Pen: ChatGPT for Sales Role Plays](https://www.researchgate.net/publication/379857281) | Milovic, Das Gyomlai, Spaid, Dingus | 2024 | ChatGPT increases student self-efficacy in sales practice |
+| [LLMs for Sales Forecasting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4848956) | Reeder, Chaker, Habel | 2024 | Unstructured CRM data + LLMs enhance forecast accuracy |
+| [Transfer of Training](https://gwern.net/doc/psychology/1988-baldwin.pdf) | Baldwin, Ford | 1988 | Foundational paper on training transfer (still relevant) |
+
+### Leading Researchers
+
+Academics publishing on AI in sales, coaching, and training.
+
+| Researcher | Institution | Focus | Links |
+|------------|-------------|-------|-------|
+| Johannes Habel | University of Houston | AI role plays, agentic AI, sales performance | [LinkedIn](https://www.linkedin.com/in/johannes-habel-310ba537) |
+| Michael Ahearne | University of Houston | Sales management, sales force effectiveness | [LinkedIn](https://www.linkedin.com/in/michael-ahearne-8b79782) |
+| Xueming Luo | Temple University | AI coaches, big data analytics | [LinkedIn](https://www.linkedin.com/in/xueming-luo-10473ba8/) / [Scholar](https://scholar.google.com/citations?user=YibmWJwAAAAJ) |
+| Gabriel Gonzalez | San Diego State University | AI agents, CRM, sales management | [LinkedIn](https://www.linkedin.com/in/gabriel-gonzalez-24367b4/) |
+| Colleen McClure | UAB | AI in sales, B2B relationships | [LinkedIn](https://www.linkedin.com/in/cemcclure/) / [Scholar](https://scholar.google.com/citations?hl=en&user=IAErG74AAAAJ) |
+| Bryan Hochstein | University of Alabama | AI in sales, customer success | [LinkedIn](https://www.linkedin.com/in/bwhochstein/) |
+| Alex Milovic | Marquette University | ChatGPT role plays, sales education | [LinkedIn](https://www.linkedin.com/in/alexmilovic) |
+| Nick Lee | Warwick Business School | Editor-in-Chief JPSSM, research methods | [LinkedIn](https://www.linkedin.com/in/profnicklee/) |
+| Deva Rangarajan | IÉSEG School of Management | B2B sales, digital transformation | [LinkedIn](https://www.linkedin.com/in/devarangarajan/) |
+| Yashar Atefi | University of Denver | AI virtual assistants, negotiation | [LinkedIn](https://www.linkedin.com/in/yashar-atefi/) |
+| Nawar Chaker | University of Tennessee | LLMs for forecasting, sales tech | [Scholar](https://scholar.google.com/citations?user=0rZLZ8oAAAAJ) |
+| Willy Bolander | Texas A&M University | Influence, persuasion, sales leadership | [LinkedIn](https://www.linkedin.com/in/wbolander/) |
+| Son K. Lam | University of Georgia | Sales management, CRM | [LinkedIn](https://www.linkedin.com/in/son-lam-07a6716/) |
+
+### Key Journals
+
+- [Journal of Personal Selling & Sales Management (JPSSM)](https://www.tandfonline.com/toc/rpss20/current) — Primary outlet for sales research
+- [Journal of Marketing](https://journals.sagepub.com/home/jmx) — Top marketing journal
+- [Journal of the Academy of Marketing Science](https://www.springer.com/journal/11747) — High-impact marketing research
+- [Journal of Business Research](https://www.sciencedirect.com/journal/journal-of-business-research) — Business applications
 
 ---
 
