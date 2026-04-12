@@ -156,6 +156,8 @@ AI for managing and delivering sales content.
 | [Seismic](https://www.seismic.com/) | Enterprise enablement cloud with Aura Copilot and Role-Play Agent. ISO 42001 certified. | $60-120/user/mo |
 | [Showpad](https://www.showpad.com/) | Sales content and coaching platform. | Contact sales |
 | [Spekit](https://www.spekit.com/) | Just-in-time learning and enablement in workflow. | Contact sales |
+| [toprank](https://github.com/nowork-studio/toprank) | Open-source Claude Code plugin with 9 SEO & Google Ads skills. Meta tags, schema markup, keyword bids, CMS pushes. | Free (MIT) |
+
 
 ## CRM & Data Enrichment
 
