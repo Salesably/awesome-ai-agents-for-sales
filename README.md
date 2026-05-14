@@ -38,6 +38,7 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [AiSDR](https://www.aisdr.com/) | Autonomous SDR for personalized cold outreach at scale. | Contact sales |
 | [Artisan (Ava)](https://www.artisan.co/) | AI BDR that automates 80% of outbound tasks. 300M+ B2B contacts, intent signals, multi-channel outreach. | Contact sales |
 | [Jason AI (Reply.io)](https://reply.io/jason-ai/) | AI assistant for multi-channel outreach sequences. | Included with Reply.io |
+| [SalesLabel](https://sales-label.com) | White-label outbound sales infrastructure for B2B agencies. Done-for-you cold email deliverability, sender warm-up, mailbox rotation, and sequencing under your agency brand. | Contact sales |
 | [Relevance AI](https://relevanceai.com/) | Build and deploy custom AI sales agents with no-code. | Free tier available |
 | [Salesforce Agentforce](https://www.salesforce.com/agentforce/) | AI agents for prospecting, coaching, and CRM automation within Salesforce ecosystem. | Salesforce add-on |
 
