@@ -81,6 +81,7 @@ AI tools for writing better sales emails.
 | [Copy.ai](https://www.copy.ai/) | AI copywriting with 2,000+ integrations including Salesforce. | Free - $49/mo |
 | [Flowrite](https://www.flowrite.com/) | Turn bullet points into polished emails. | $5/mo+ |
 | [Jasper](https://www.jasper.ai/) | Enterprise AI content platform with brand voice training. | $39/mo+ |
+| [ColdScore](https://score.quick-polish.com) | Quantified cold email scoring (0-100) across 5 dimensions with specific fixes. | $1 one-time |
 | [Lavender](https://www.lavender.ai/) | Real-time email coach. Scores emails, suggests fixes, provides recipient insights. | Free - $89/mo |
 | [Regie.ai](https://www.regie.ai/) | Generative AI for sales sequences with adaptive nurturing. | $35K+/year |
 | [Twain](https://www.twain.ai/) | AI communication assistant for sales outreach. | Free tier |
