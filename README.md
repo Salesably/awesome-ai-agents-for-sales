@@ -177,6 +177,7 @@ Open source AI sales agents and frameworks.
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [AI-Cold-Email-Generator](https://github.com/trancethehuman/ai-cold-email-generator) | Generate personalized cold emails with AI. | 100+ |
+| [Beton Inspector](https://github.com/getbeton/inspector) | Open-source revenue intelligence. Connects PostHog product usage to your CRM and auto-detects buying, expansion, and churn signals. Self-hostable (AGPLv3). | 30+ |
 | [Deco AI Sales Assistant](https://github.com/deco-cx/apps) | Multilingual AI sales assistant for e-commerce. | Active |
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
