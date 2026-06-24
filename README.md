@@ -40,6 +40,7 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [Jason AI (Reply.io)](https://reply.io/jason-ai/) | AI assistant for multi-channel outreach sequences. | Included with Reply.io |
 | [Relevance AI](https://relevanceai.com/) | Build and deploy custom AI sales agents with no-code. | Free tier available |
 | [Salesforce Agentforce](https://www.salesforce.com/agentforce/) | AI agents for prospecting, coaching, and CRM automation within Salesforce ecosystem. | Salesforce add-on |
+| [Hermes](https://www.buildwithhermes.com/) | Platform for agencies to deploy white-label AI voice agents that run outbound and inbound sales calls, with built-in CRM and campaign orchestration. | $149/mo+ |
 
 ## Prospecting & Lead Generation
 
