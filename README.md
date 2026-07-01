@@ -52,6 +52,7 @@ Tools for finding and qualifying potential buyers.
 | [Clay](https://www.clay.com/) | AI research agents that find, enrich, and score leads from 130+ data sources. | $149/mo+ |
 | [Cognism](https://www.cognism.com/) | GDPR-compliant B2B data with phone-verified mobile numbers. | Contact sales |
 | [Lusha](https://www.lusha.com/) | Contact and company data enrichment with browser extension. | Free - $79/mo |
+| [OutSend](https://outsend.xyz) | All-in-one AI prospecting platform: scrape Google Maps & directories, AI-enrich emails and phone numbers, verify contacts, and query leads in natural language. | Free (alpha) |
 | [Persana AI](https://persana.ai/) | 75+ intent signals, AI enrichment, and automated prospecting. | Contact sales |
 | [Prep5](https://prep5.salesably.ai/) | AI research in under 5 minutes. Generates call scripts, talking points, and prospect intelligence from LinkedIn/email. | $5 credits |
 | [Seamless.AI](https://seamless.ai/) | Real-time B2B contact search with AI verification. | Contact sales |
