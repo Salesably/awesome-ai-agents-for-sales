@@ -71,6 +71,7 @@ Multi-channel sales engagement platforms.
 | [Reply.io](https://reply.io/) | Multi-channel sequences with 300% higher reply rates via AI personalization. | $60/mo+ |
 | [Salesloft](https://www.salesloft.com/) | Sales engagement with AI-powered cadences and analytics. Merged with Clari (2025). | Contact sales |
 | [Smartlead](https://www.smartlead.ai/) | Unlimited mailboxes with AI warmup and rotation. | $39/mo+ |
+| [Xquik](https://xquik.com/) | X automation platform with REST API, webhooks, MCP, monitoring, and AI compose workflows. | From $20/mo |
 
 ## Email Personalization & Copywriting
 
