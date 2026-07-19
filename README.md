@@ -176,6 +176,7 @@ Open source AI sales agents and frameworks.
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [ai-automation-templates](https://github.com/H2284AT/ai-automation-templates-) | 350+ free, self-hostable n8n workflow templates for B2B sales automation (lead scoring, outreach, CRM sync), many AI/LLM-powered, GDPR-compliant. | — |
 | [AI-Cold-Email-Generator](https://github.com/trancethehuman/ai-cold-email-generator) | Generate personalized cold emails with AI. | 100+ |
 | [Deco AI Sales Assistant](https://github.com/deco-cx/apps) | Multilingual AI sales assistant for e-commerce. | Active |
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
