@@ -178,6 +178,7 @@ Open source AI sales agents and frameworks.
 |---------|-------------|-------|
 | [AI-Cold-Email-Generator](https://github.com/trancethehuman/ai-cold-email-generator) | Generate personalized cold emails with AI. | 100+ |
 | [Deco AI Sales Assistant](https://github.com/deco-cx/apps) | Multilingual AI sales assistant for e-commerce. | Active |
+| [ebase](https://github.com/embeddingvc/ebase) | Open-source LinkedIn outreach agent for Claude Code — connection requests, DMs, and profile research with built-in daily limits. | New |
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
 
