@@ -99,6 +99,7 @@ AI that analyzes sales calls and meetings.
 | [Jiminny](https://www.jiminny.com/) | Call recording with deal intelligence. 15% higher win rate reported. | Contact sales |
 | [Otter.ai](https://otter.ai/) | Meeting transcription and summaries. | Free - $20/mo |
 | [Sybill](https://www.sybill.ai/) | Emotion-based insights from sales calls. | Contact sales |
+| [Zime](https://zime.ai/) | Records and analyzes calls across Zoom, Meet, Teams, and in-person meetings. Real-time in-call nudges, auto CRM updates for HubSpot and Salesforce, and an agentic query layer across deal and account context. | Contact sales |
 
 ## Sales Coaching & Training
 
