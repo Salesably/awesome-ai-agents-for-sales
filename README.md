@@ -66,6 +66,7 @@ Multi-channel sales engagement platforms.
 | [Instantly.ai](https://instantly.ai/) | Unlimited email accounts, AI warmup, and deliverability optimization. | $37/mo+ |
 | [Lemlist](https://www.lemlist.com/) | Personalized cold outreach with AI-generated images and videos. | $59/mo+ |
 | [Mailshake](https://mailshake.com/) | Simple cold email outreach with AI writing assistant. | $58/mo+ |
+| [Mentioned](https://mentioned.to/) | Done-for-you Reddit engagement. Finds threads ranking on Google for your keywords and publishes native posts and comments from managed accounts. | $2,000/mo+ |
 | [Mixmax](https://www.mixmax.com/) | Email tracking, scheduling, and sequences for Gmail. | $29/mo+ |
 | [Outreach](https://www.outreach.io/) | AI revenue workflow platform. Research Agent, Deal Agent, and forecasting. | Contact sales |
 | [Reply.io](https://reply.io/) | Multi-channel sequences with 300% higher reply rates via AI personalization. | $60/mo+ |
