@@ -98,6 +98,7 @@ AI that analyzes sales calls and meetings.
 | [Gong](https://www.gong.io/) | Market leader. Analyzes calls, tracks deals, provides AI recommendations. 35% higher win rates reported. | ~$100/user/mo |
 | [Jiminny](https://www.jiminny.com/) | Call recording with deal intelligence. 15% higher win rate reported. | Contact sales |
 | [Otter.ai](https://otter.ai/) | Meeting transcription and summaries. | Free - $20/mo |
+| [Speak AI](https://speakai.co) | Conversation intelligence + voice-driven sales automation. Scores calls against your own methodology, human-reviewed. | Contact sales |
 | [Sybill](https://www.sybill.ai/) | Emotion-based insights from sales calls. | Contact sales |
 
 ## Sales Coaching & Training
