@@ -11,6 +11,7 @@ AI is reshaping every aspect of sales—from prospecting and outreach to coachin
 ## Contents
 
 - [Autonomous AI SDRs](#autonomous-ai-sdrs)
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 - [Prospecting & Lead Generation](#prospecting--lead-generation)
 - [Outreach & Engagement](#outreach--engagement)
 - [Email Personalization & Copywriting](#email-personalization--copywriting)
