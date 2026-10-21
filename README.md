@@ -55,6 +55,7 @@ Tools for finding and qualifying potential buyers.
 | [Persana AI](https://persana.ai/) | 75+ intent signals, AI enrichment, and automated prospecting. | Contact sales |
 | [Prep5](https://prep5.salesably.ai/) | AI research in under 5 minutes. Generates call scripts, talking points, and prospect intelligence from LinkedIn/email. | $5 credits |
 | [Seamless.AI](https://seamless.ai/) | Real-time B2B contact search with AI verification. | Contact sales |
+| [Sell to State](https://selltostate.com/) | Government tenders and contract awards in 60+ countries for AI agents (MCP, skills, API): open tenders, public buyers, competitor wins. | $49/mo |
 | [ZoomInfo](https://www.zoominfo.com/) | Enterprise B2B intelligence platform with AI-powered intent data. | Contact sales |
 
 ## Outreach & Engagement
