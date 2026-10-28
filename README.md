@@ -37,12 +37,13 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [11x.ai (Alice & Julian)](https://www.11x.ai/) | Digital workers for outbound (Alice) and inbound calls (Julian). 24/7 engagement across email, social, phone. | Custom |
 | [AiSDR](https://www.aisdr.com/) | Autonomous SDR for personalized cold outreach at scale. | Contact sales |
 | [Artisan (Ava)](https://www.artisan.co/) | AI BDR that automates 80% of outbound tasks. 300M+ B2B contacts, intent signals, multi-channel outreach. | Contact sales |
+| [Hermes](https://www.buildwithhermes.com/) | White-label AI voice agent platform for agencies. Runs outbound and inbound calling campaigns with built-in CRM and per-client billing. | $149/mo+ |
 | [Jason AI (Reply.io)](https://reply.io/jason-ai/) | AI assistant for multi-channel outreach sequences. | Included with Reply.io |
-| [SalesLabel](https://sales-label.com) | White-label outbound sales infrastructure for B2B agencies. Done-for-you cold email deliverability, sender warm-up, mailbox rotation, and sequencing under your agency brand. | Contact sales |
 | [Relevance AI](https://relevanceai.com/) | Build and deploy custom AI sales agents with no-code. | Free tier available |
 | [Revnu](https://revnu.com/) | AI growth hire. Finds buyers, writes email and LinkedIn outreach in your voice, handles replies, books meetings. | From $99/mo |
 | [Salesforce Agentforce](https://www.salesforce.com/agentforce/) | AI agents for prospecting, coaching, and CRM automation within Salesforce ecosystem. | Salesforce add-on |
 | [VoiceOI](https://voiceoi.com/) | No-code outbound AI voice bots: qualify leads, live-transfer qualified callers to closers. VICIdial remote agents or any SIP carrier. | $30/bot/mo+ (prepaid) |
+| [Workforce Wave](https://www.workforcewave.com/) | AI voice agent for inbound calls. Answers 24/7, books appointments, and captures leads for small and mid-sized businesses. | Contact sales |
 
 ## Prospecting & Lead Generation
 
@@ -54,6 +55,7 @@ Tools for finding and qualifying potential buyers.
 | [Apollo.io](https://www.apollo.io/) | 265M+ contacts database with AI-powered search, enrichment, and sequencing. | Free - $99/mo |
 | [Clay](https://www.clay.com/) | AI research agents that find, enrich, and score leads from 130+ data sources. | $149/mo+ |
 | [Cognism](https://www.cognism.com/) | GDPR-compliant B2B data with phone-verified mobile numbers. | Contact sales |
+| [findmemail.io](https://findmemail.io/) | Plain-English ICP search with SMTP-verified founder/decision-maker emails. 32k+ companies indexed; built for indie founders. | Free - $200 lifetime |
 | [LeadSleuth](https://leads.zalize.com/) | Monitors Hacker News and Bluesky (Reddit coming soon) for buying-intent posts matching your ICP, then builds cited research dossiers with draft replies. Human-in-the-loop — never auto-sends. | Free (beta) |
 | [Lusha](https://www.lusha.com/) | Contact and company data enrichment with browser extension. | Free - $79/mo |
 | [OutSend](https://outsend.xyz) | All-in-one AI prospecting platform: scrape Google Maps & directories, AI-enrich emails and phone numbers, verify contacts, and query leads in natural language. | Free (alpha) |
@@ -76,6 +78,7 @@ Multi-channel sales engagement platforms.
 | [Outreach](https://www.outreach.io/) | AI revenue workflow platform. Research Agent, Deal Agent, and forecasting. | Contact sales |
 | [OutreachAgent](https://outreachagent.dev/) | Reply-aware outbound infrastructure for AI agents with workflows, webhooks, pacing, and deliverability guardrails. | Free tier |
 | [Reply.io](https://reply.io/) | Multi-channel sequences with 300% higher reply rates via AI personalization. | $60/mo+ |
+| [SalesLabel](https://sales-label.com) | White-label outbound sales infrastructure for B2B agencies. Done-for-you cold email deliverability, sender warm-up, mailbox rotation, and sequencing under your agency brand. | Contact sales |
 | [Salesloft](https://www.salesloft.com/) | Sales engagement with AI-powered cadences and analytics. Merged with Clari (2025). | Contact sales |
 | [Smartlead](https://www.smartlead.ai/) | Unlimited mailboxes with AI warmup and rotation. | $39/mo+ |
 
@@ -190,9 +193,9 @@ Open source AI sales agents and frameworks.
 | [Beton Inspector](https://github.com/getbeton/inspector) | Open-source revenue intelligence. Connects PostHog product usage to your CRM and auto-detects buying, expansion, and churn signals. Self-hostable (AGPLv3). | 30+ |
 | [Deco AI Sales Assistant](https://github.com/deco-cx/apps) | Multilingual AI sales assistant for e-commerce. | Active |
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
-| [Harvey](https://github.com/ethanplusai/harvey) | Local sales agent for prospecting, personalized outreach, and reply handling, powered by Claude Code or Codex subscriptions. | 800+ |
+| [Harvey](https://github.com/ethanplusai/harvey) | Local sales agent for prospecting, personalized outreach, and reply handling, powered by Claude Code or Codex subscriptions. | 2.8k+ |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
-| [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 30+ |
+| [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 490+ |
 
 ## Agent Frameworks
 
