@@ -155,6 +155,7 @@ AI for managing and delivering sales content.
 | Tool | Description | Pricing |
 |------|-------------|---------|
 | [Bigtincan](https://www.bigtincan.com/) | AI-powered sales enablement and content automation. | Contact sales |
+| [Calven](https://calven.ai/) | Product marketing agents that produce battle cards, talk tracks, and competitive intel for the sales team. | Contact sales |
 | [Dock](https://www.dock.us/) | Digital sales rooms with buyer engagement tracking. | Free - $49/mo |
 | [Highspot](https://www.highspot.com/) | AI-powered content management with Nexus™ engine. New Agents for coaching (2025). | $50-100/user/mo |
 | [Mediafly](https://www.mediafly.com/) | Revenue enablement with interactive content. | Contact sales |
