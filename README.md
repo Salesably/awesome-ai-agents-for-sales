@@ -192,6 +192,7 @@ Open source AI sales agents and frameworks.
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
 | [Harvey](https://github.com/ethanplusai/harvey) | Local sales agent for prospecting, personalized outreach, and reply handling, powered by Claude Code or Codex subscriptions. | 800+ |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
+| [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 30+ |
 
 ## Agent Frameworks
 
