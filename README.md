@@ -71,6 +71,7 @@ Multi-channel sales engagement platforms.
 | [Mailshake](https://mailshake.com/) | Simple cold email outreach with AI writing assistant. | $58/mo+ |
 | [Mixmax](https://www.mixmax.com/) | Email tracking, scheduling, and sequences for Gmail. | $29/mo+ |
 | [Outreach](https://www.outreach.io/) | AI revenue workflow platform. Research Agent, Deal Agent, and forecasting. | Contact sales |
+| [OutreachAgent](https://outreachagent.dev/) | Reply-aware outbound infrastructure for AI agents with workflows, webhooks, pacing, and deliverability guardrails. | Free tier |
 | [Reply.io](https://reply.io/) | Multi-channel sequences with 300% higher reply rates via AI personalization. | $60/mo+ |
 | [Salesloft](https://www.salesloft.com/) | Sales engagement with AI-powered cadences and analytics. Merged with Clari (2025). | Contact sales |
 | [Smartlead](https://www.smartlead.ai/) | Unlimited mailboxes with AI warmup and rotation. | $39/mo+ |
