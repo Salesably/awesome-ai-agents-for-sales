@@ -39,6 +39,7 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [Artisan (Ava)](https://www.artisan.co/) | AI BDR that automates 80% of outbound tasks. 300M+ B2B contacts, intent signals, multi-channel outreach. | Contact sales |
 | [Jason AI (Reply.io)](https://reply.io/jason-ai/) | AI assistant for multi-channel outreach sequences. | Included with Reply.io |
 | [Relevance AI](https://relevanceai.com/) | Build and deploy custom AI sales agents with no-code. | Free tier available |
+| [Revnu](https://revnu.com/) | AI growth hire. Finds buyers, writes email and LinkedIn outreach in your voice, handles replies, books meetings. | From $99/mo |
 | [Salesforce Agentforce](https://www.salesforce.com/agentforce/) | AI agents for prospecting, coaching, and CRM automation within Salesforce ecosystem. | Salesforce add-on |
 
 ## Prospecting & Lead Generation
