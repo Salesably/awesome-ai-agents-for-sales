@@ -103,6 +103,7 @@ AI that analyzes sales calls and meetings.
 | [Otter.ai](https://otter.ai/) | Meeting transcription and summaries. | Free - $20/mo |
 | [Speak AI](https://speakai.co) | Conversation intelligence + voice-driven sales automation. Scores calls against your own methodology, human-reviewed. | Contact sales |
 | [Sybill](https://www.sybill.ai/) | Emotion-based insights from sales calls. | Contact sales |
+| [Zime](https://zime.ai/) | Real-time in-call nudges plus automatic CRM updates. Covers Zoom, Meet, Teams, and in-person meetings. | Contact sales |
 
 ## Sales Coaching & Training
 
