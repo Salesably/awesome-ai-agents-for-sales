@@ -230,10 +230,18 @@ Peer-reviewed research on AI in sales from leading institutions.
 | [AI Agents, Agentic AI, and the Future of Sales](https://www.sciencedirect.com/science/article/abs/pii/S0148296325006228) | Gonzalez, Habel, Hunter | 2026 | AI agent market: $7.6B (2025) → $139B (2033) |
 | [AI Coaches for Sales Agents: Caveats and Solutions](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3704283) | Luo, Qin, Fang, Qu | 2021 | AI coaching works best with human oversight |
 | [AI in Sales: Laying the Foundations](https://www.tandfonline.com/doi/full/10.1080/08853134.2024.2329905) | McClure, Epler, Schmitt, Rangarajan | 2024 | AI predicted to fulfill 60% of sales tasks by 2028 |
+| [AI-to-AI Selling](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7561958) | Winter, Habel, Zacharias | 2026 | 950 controlled AI buyer–AI seller calls; seller agents convert more when they worry less about the buyer agent's processing effort |
+| [Artificial Intelligence in Sales Research: Identifying Emergent Themes](https://doi.org/10.1016/j.jbusres.2025.115383) | Jarotschkin, Soykoth, Chaker | 2025 | Bibliometric and topic-model map of the AI-in-sales literature; five core themes and a research agenda |
 | [Do AI Role Plays Improve Sales Performance?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5717822) | Habel, Ahearne, Tirunillai, Novak | 2025 | 7-35% improvement for specific segments; repetition matters (~1.2% per episode) |
+| [Inbound Sales Management: Substitutability of Autonomous AI Sales Agents](https://doi.org/10.1016/j.indmarman.2025.11.007) | Nelson, Waschka, Hunter | 2026 | B2B buyers still prefer humans for relationship-building; tech-confident buyers are more open to AI agents |
 | [LLMs for Sales Forecasting](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4848956) | Reeder, Chaker, Habel | 2024 | Unstructured CRM data + LLMs enhance forecast accuracy |
+| [Machines vs. Humans: AI Chatbot Disclosure and Customer Purchases](https://doi.org/10.1287/mksc.2019.1192) | Luo, Tong, Fang, Qu | 2019 | Undisclosed sales bots matched proficient reps and beat novices 4x; upfront disclosure cut purchases ~80% |
+| [Sales Pipeline Technology: Automated Lead Nurturing](https://doi.org/10.1177/00222429251321417) | Habel, Hartmann, Wiseman, Ahearne, Vaid | 2025 | Automated nurturing lifts sales for new leads, short cycles, and smaller deals; gains fade for high-ticket, research-heavy buys |
 | [Sell Me This Artificial Pen: ChatGPT for Sales Role Plays](https://www.researchgate.net/publication/379857281) | Milovic, Das Gyomlai, Spaid, Dingus | 2024 | ChatGPT increases student self-efficacy in sales practice |
+| [Sell More, Play Less: Benchmarking LLM Selling Skill](https://aclanthology.org/2026.emnlp-main.974/) | Su et al. (EMNLP) | 2026 | Best LLMs sell like junior-to-mid human reps, not experts; performance is inconsistent across languages |
+| [The Impact of Generative AI on B2B Sales Process and Performance](https://doi.org/10.1108/JBIM-02-2025-0097) | Rodriguez, Deeter-Schmelz, Krush | 2025 | GenAI use raises process effectiveness, admin efficiency, and performance; management support drives adoption |
 | [Transfer of Training](https://gwern.net/doc/psychology/1988-baldwin.pdf) | Baldwin, Ford | 1988 | Foundational paper on training transfer (still relevant) |
+| [Unpacking Generative AI for B2B Sales](https://doi.org/10.1080/08853134.2026.2616240) | Wang, Nahm, Pu, Mojir, Singh | 2026 | AGA framework: autonomy, generativity, and adaptability define GenAI's roles in sales |
 
 ### Leading Researchers
 
@@ -246,21 +254,26 @@ Academics publishing on AI in sales, coaching, and training.
 | [Colleen McClure](https://www.linkedin.com/in/cemcclure/) | UAB | AI in sales, B2B relationships | [LinkedIn](https://www.linkedin.com/in/cemcclure/) / [Scholar](https://scholar.google.com/citations?hl=en&user=IAErG74AAAAJ) |
 | [Deva Rangarajan](https://www.linkedin.com/in/devarangarajan/) | IÉSEG School of Management | B2B sales, digital transformation | [LinkedIn](https://www.linkedin.com/in/devarangarajan/) |
 | [Gabriel Gonzalez](https://www.linkedin.com/in/gabriel-gonzalez-24367b4/) | San Diego State University | AI agents, CRM, sales management | [LinkedIn](https://www.linkedin.com/in/gabriel-gonzalez-24367b4/) |
-| [Johannes Habel](https://www.linkedin.com/in/johannes-habel-310ba537) | University of Houston | AI role plays, agentic AI, sales performance | [LinkedIn](https://www.linkedin.com/in/johannes-habel-310ba537) |
+| [Gary Hunter](https://olemiss.edu/profiles/gkhunte1) | University of Mississippi | AI sales agents, sales technology | [Profile](https://olemiss.edu/profiles/gkhunte1) |
+| [Johannes Habel](https://www.linkedin.com/in/johannes-habel-310ba537) | University of Houston | AI role plays, agentic AI, automated lead nurturing | [LinkedIn](https://www.linkedin.com/in/johannes-habel-310ba537) |
 | [Michael Ahearne](https://www.linkedin.com/in/michael-ahearne-8b79782) | University of Houston | Sales management, sales force effectiveness | [LinkedIn](https://www.linkedin.com/in/michael-ahearne-8b79782) |
-| [Nawar Chaker](https://scholar.google.com/citations?user=0rZLZ8oAAAAJ) | University of Tennessee | LLMs for forecasting, sales tech | [Scholar](https://scholar.google.com/citations?user=0rZLZ8oAAAAJ) |
+| [Nawar Chaker](https://scholar.google.com/citations?user=0rZLZ8oAAAAJ) | University of Tennessee | LLMs for forecasting, AI in sales research | [Scholar](https://scholar.google.com/citations?user=0rZLZ8oAAAAJ) |
 | [Nick Lee](https://www.linkedin.com/in/profnicklee/) | Warwick Business School | Editor-in-Chief JPSSM, research methods | [LinkedIn](https://www.linkedin.com/in/profnicklee/) |
 | [Son K. Lam](https://www.linkedin.com/in/son-lam-07a6716/) | University of Georgia | Sales management, CRM | [LinkedIn](https://www.linkedin.com/in/son-lam-07a6716/) |
+| [Viktor Jarotschkin](https://www.lsu.edu/business/directory/employee-profiles/jarotschkin-viktor-marketing.php) | LSU | AI in sales research themes, sales technology diffusion | [Profile](https://www.lsu.edu/business/directory/employee-profiles/jarotschkin-viktor-marketing.php) |
 | [Willy Bolander](https://www.linkedin.com/in/wbolander/) | Texas A&M University | Influence, persuasion, sales leadership | [LinkedIn](https://www.linkedin.com/in/wbolander/) |
 | [Xueming Luo](https://www.linkedin.com/in/xueming-luo-10473ba8/) | Temple University | AI coaches, big data analytics | [LinkedIn](https://www.linkedin.com/in/xueming-luo-10473ba8/) / [Scholar](https://scholar.google.com/citations?user=YibmWJwAAAAJ) |
 | [Yashar Atefi](https://www.linkedin.com/in/yashar-atefi/) | University of Denver | AI virtual assistants, negotiation | [LinkedIn](https://www.linkedin.com/in/yashar-atefi/) |
 
 ### Key Journals
 
+- [Industrial Marketing Management](https://www.sciencedirect.com/journal/industrial-marketing-management) — B2B marketing and sales
 - [Journal of Business Research](https://www.sciencedirect.com/journal/journal-of-business-research) — Business applications
+- [Journal of Business & Industrial Marketing](https://www.emerald.com/insight/publication/issn/0885-8624) — B2B sales practice
 - [Journal of Marketing](https://journals.sagepub.com/home/jmx) — Top marketing journal
 - [Journal of Personal Selling & Sales Management (JPSSM)](https://www.tandfonline.com/toc/rpss20/current) — Primary outlet for sales research
 - [Journal of the Academy of Marketing Science](https://www.springer.com/journal/11747) — High-impact marketing research
+- [Marketing Science](https://pubsonline.informs.org/journal/mksc) — Quantitative marketing and field experiments
 
 ---
 
