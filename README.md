@@ -125,6 +125,7 @@ AI-powered practice, roleplay, and skill development.
 | [Quantified](https://www.quantified.ai/) | AI coaching simulations with video analysis. | Contact sales |
 | [Rehearsal](https://www.rehearsal.com/) | Video-based practice and coaching platform. | Contact sales |
 | [Salesably](https://www.salesably.ai/) | Practice Studios for AI roleplay. Turns top performer knowledge into execution capability. | Contact sales |
+| [SalesSimulator](https://salessimulator.de/) | German-language AI text roleplay for sales conversations, with fictional customers, feedback and 55 exercises. Voice unavailable. | Two free starts total; optional €20/month incl. VAT, renews monthly, cancellable at paid month-end; up to 8 starts/day (Europe/Berlin). |
 | [Second Nature](https://www.secondnature.ai/) | AI sales training with virtual pitch practice. | Contact sales |
 | [Siro](https://www.siro.ai/) | AI coaching for in-person sales (retail, field sales). 36% performance boost reported. | Contact sales |
 
