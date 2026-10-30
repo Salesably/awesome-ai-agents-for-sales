@@ -57,6 +57,7 @@ Tools for finding and qualifying potential buyers.
 | [Cognism](https://www.cognism.com/) | GDPR-compliant B2B data with phone-verified mobile numbers. | Contact sales |
 | [findmemail.io](https://findmemail.io/) | Plain-English ICP search with SMTP-verified founder/decision-maker emails. 32k+ companies indexed; built for indie founders. | Free - $200 lifetime |
 | [LeadSleuth](https://leads.zalize.com/) | Monitors Hacker News and Bluesky (Reddit coming soon) for buying-intent posts matching your ICP, then builds cited research dossiers with draft replies. Human-in-the-loop — never auto-sends. | Free (beta) |
+| [Leama](https://leama.ai/) | AI research and qualification of companies against a customer profile, with reviewable fit context. | 7-day trial; see site |
 | [Lusha](https://www.lusha.com/) | Contact and company data enrichment with browser extension. | Free - $79/mo |
 | [OutSend](https://outsend.xyz) | All-in-one AI prospecting platform: scrape Google Maps & directories, AI-enrich emails and phone numbers, verify contacts, and query leads in natural language. | Free (alpha) |
 | [Persana AI](https://persana.ai/) | 75+ intent signals, AI enrichment, and automated prospecting. | Contact sales |
