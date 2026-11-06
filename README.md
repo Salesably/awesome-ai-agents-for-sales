@@ -44,6 +44,7 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [Conversica](https://www.conversica.com/) | Revenue Digital Assistants hold two-way email and SMS conversations to qualify and hand off leads. | Contact sales |
 | [Hermes](https://www.buildwithhermes.com/) | White-label AI voice agent platform for agencies. Runs outbound and inbound calling campaigns with built-in CRM and per-client billing. | $149/mo+ |
 | [Jason AI (Reply.io)](https://reply.io/jason-ai/) | AI assistant for multi-channel outreach sequences. | Included with Reply.io |
+| [Mach GTM](https://machgtm.com) | AI outbound sales agent for B2B software teams (SaaS, IT services, AI services). Builds a Brain from your case studies, finds buying-signal leads, researches each prospect with source-verified facts, and drafts personalised email/LinkedIn/WhatsApp outreach. Every message requires human approval. Open-source MCP server available. | From $1k/seat |
 | [Nooks](https://www.nooks.ai/) | AI dialer plus AI SDR agents for parallel dialing, prospect research, and call coaching. | Contact sales |
 | [Qualified (Piper)](https://www.qualified.com/) | Piper the AI SDR works inbound: engages website visitors, qualifies, and books meetings 24/7. | Contact sales |
 | [Relevance AI](https://relevanceai.com/) | Build and deploy custom AI sales agents with no-code. | Free tier available |
@@ -253,6 +254,7 @@ Open source AI sales agents and frameworks.
 | [Deco AI Sales Assistant](https://github.com/deco-cx/apps) | Multilingual AI sales assistant for e-commerce. | Active |
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
 | [Harvey](https://github.com/ethanplusai/harvey) | Local sales agent for prospecting, personalized outreach, and reply handling, powered by Claude Code or Codex subscriptions. | 2.8k+ |
+| [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server connecting Claude, ChatGPT, and Cursor to B2B outbound sales workflows. 5 tools: build ICP, score leads, draft outreach, research prospects, build sequences. Install: npx mach-gtm-mcp. | 30+ |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
 | [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 490+ |
 
@@ -267,6 +269,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Apollo MCP](https://docs.apollo.io/docs/apollo-mcp) | Official server at mcp.apollo.io. Search, enrich, and sequence from the 265M+ contact database. | Included with Apollo |
 | [Attio MCP](https://docs.attio.com/mcp/overview) | Official remote server. Records, lists, and notes in natural language via OAuth. | Included with Attio |
 | [Close MCP](https://developer.close.com/mcp/) | Official server with read, safe-write, and destructive scopes. | Included with Close |
+| [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server for B2B outbound sales. 5 tools: build ICP, research prospects, score leads (0-100), draft personalised cold email/LinkedIn, and build multi-touch sequences. Install: npx mach-gtm-mcp. | Free (open source) |
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
 | [HubSpot MCP Server](https://developers.hubspot.com/mcp) | Official remote server at mcp.hubspot.com. CRM objects, properties, and reports via OAuth. | Included with HubSpot |
 | [Sales Engineering Skills](https://github.com/jacobtop-tcg/sales-engineering-skills) | Open-source Agent Skills for presales: Proof of Value plans, MEDDICC qualification, mutual action plans, pre-call plans and stage exit criteria. | Free (open source) |
