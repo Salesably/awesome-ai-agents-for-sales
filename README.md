@@ -84,6 +84,7 @@ Tools for finding and qualifying potential buyers.
 | [RB2B](https://www.rb2b.com/) | De-anonymizes 70-80% of US website visitors into names, LinkedIn profiles, and emails. | Free tier |
 | [Seamless.AI](https://seamless.ai/) | Real-time B2B contact search with AI verification. | Contact sales |
 | [Sell to State](https://selltostate.com/) | Government tenders and contract awards in 60+ countries for AI agents (MCP, skills, API): open tenders, public buyers, competitor wins. | $49/mo |
+| [Smart Scraper Studio](https://www.hirewebscraper.com/) | No-code desktop app that scrapes business directories and Google Maps into Excel/CSV. | Free trial, paid from $19/mo |
 | [UserGems](https://www.usergems.com/) | Tracks job changes of past champions and surfaces warm paths with AI outreach. | Contact sales |
 | [Warmly](https://www.warmly.ai/) | Reveals warm website visitors and auto-engages them via AI chat, email, and LinkedIn. | Free tier |
 | [ZoomInfo](https://www.zoominfo.com/) | Enterprise B2B intelligence platform with AI-powered intent data. | Contact sales |
