@@ -237,6 +237,7 @@ AI for keeping CRM data clean and actionable.
 | [Attio](https://attio.com/) | AI-native CRM with research agents, automations, and enrichment built in. | Free - $59/user/mo |
 | [Clearbit](https://clearbit.com/) | Real-time data enrichment and intent signals. Acquired by HubSpot. | Contact sales |
 | [Close](https://www.close.com/) | CRM with a built-in AI teammate that calls leads, qualifies, books meetings, and updates records. | $19/user/mo+ |
+| [Datacircle](https://datacircle.dev) | We benchmark all the GTM APIs and we put the results on our website. | — |
 | [Day.ai](https://www.day.ai/) | AI-native CRM that builds and maintains itself from your calls and email. | Contact sales |
 | [Dropcontact](https://www.dropcontact.com/) | GDPR-compliant email enrichment. | €24/mo+ |
 | [FullContact](https://www.fullcontact.com/) | Identity resolution and data enrichment. | Contact sales |
