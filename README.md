@@ -270,6 +270,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [HubSpot MCP Server](https://developers.hubspot.com/mcp) | Official remote server at mcp.hubspot.com. CRM objects, properties, and reports via OAuth. | Included with HubSpot |
 | [Sales Engineering Skills](https://github.com/jacobtop-tcg/sales-engineering-skills) | Open-source Agent Skills for presales: Proof of Value plans, MEDDICC qualification, mutual action plans, pre-call plans and stage exit criteria. | Free (open source) |
 | [Salesforce Hosted MCP Servers](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/agentforce.html) | Expose Agentforce agents and prompt templates as MCP tools for external assistants. | Enterprise Edition+ |
+| [Signbee MCP](https://github.com/signbee/mcp) | Close deals autonomously by sending MSAs, NDAs, and contracts for two-party e-signing via [signb.ee](https://signb.ee) and [agent skill](https://github.com/signbee/skill). | Free tier (open source) |
 
 ## Agent Frameworks
 
