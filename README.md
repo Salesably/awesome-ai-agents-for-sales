@@ -261,6 +261,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 
 | Server / Skill | Description | Access |
 |----------------|-------------|--------|
+| [Alpha OSINT Prospector](https://github.com/johnisanerd/alphaosint-prospector) | Open-source Claude Code plugin (local MCP server + 6 skills). Finds companies hiring for the roles you sell into, scores them 0-100 and names decision-makers. | Free (MIT); Apify usage billed |
 | [Anthropic Sales Plugin](https://github.com/anthropics/knowledge-work-plugins/tree/main/sales) | Open-source Claude plugin: account research, call prep, pipeline review, forecast, and CRM hygiene skills. | Free (open source) |
 | [Apollo MCP](https://docs.apollo.io/docs/apollo-mcp) | Official server at mcp.apollo.io. Search, enrich, and sequence from the 265M+ contact database. | Included with Apollo |
 | [Attio MCP](https://docs.attio.com/mcp/overview) | Official remote server. Records, lists, and notes in natural language via OAuth. | Included with Attio |
