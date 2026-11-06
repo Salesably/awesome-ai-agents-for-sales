@@ -74,6 +74,7 @@ Tools for finding and qualifying potential buyers.
 | [Kaspr](https://www.kaspr.io/) | LinkedIn Chrome extension for instant B2B contact data. | Free tier |
 | [Koala](https://getkoala.com/) | Website and product-usage intent signals with AI account prioritization. | Free tier |
 | [LeadSleuth](https://leads.zalize.com/) | Monitors Hacker News and Bluesky (Reddit coming soon) for buying-intent posts matching your ICP, then builds cited research dossiers with draft replies. Human-in-the-loop — never auto-sends. | Free (beta) |
+| [Leama](https://leama.ai/) | AI research and qualification of companies against a customer profile, with reviewable fit context. | 7-day trial; see site |
 | [LinkedIn Sales Navigator](https://business.linkedin.com/sales-solutions) | Lead search with AI Account IQ, Lead IQ, and message assist. | $99/mo+ |
 | [Lusha](https://www.lusha.com/) | Contact and company data enrichment with browser extension. | Free - $79/mo |
 | [OutSend](https://outsend.xyz) | All-in-one AI prospecting platform: scrape Google Maps & directories, AI-enrich emails and phone numbers, verify contacts, and query leads in natural language. | Free (alpha) |
@@ -167,7 +168,7 @@ AI-powered practice, roleplay, and skill development.
 | [Rehearsal](https://www.rehearsal.com/) | Video-based practice and coaching platform. | Contact sales |
 | [Retorio](https://www.retorio.com/) | Enterprise AI roleplay and behavioral coaching in 14 languages. Built for regulated industries. | Contact sales |
 | [Salesably](https://www.salesably.ai/) | Practice Studios for AI roleplay. Turns top performer knowledge into execution capability. | Contact sales |
-| [SalesSimulator](https://salessimulator.de/) | German-language AI text roleplay for sales conversations, with fictional customers, feedback and 55 exercises. Voice unavailable. | Two free starts total; optional €20/month incl. VAT, renews monthly, cancellable at paid month-end; up to 8 starts/day (Europe/Berlin). |
+| [SalesSimulator](https://salessimulator.de/) | German-language AI text roleplay for sales conversations, with fictional customers, feedback and 55 exercises. Voice unavailable. | Free trial; €20/mo |
 | [Second Nature](https://www.secondnature.ai/) | AI sales training with virtual pitch practice. | Contact sales |
 | [Siro](https://www.siro.ai/) | AI coaching for in-person sales (retail, field sales). 36% performance boost reported. | Contact sales |
 | [Wonderway](https://www.wonderway.io/) | AI call scoring and coaching tied to your sales methodology. | Contact sales |
@@ -254,7 +255,7 @@ Open source AI sales agents and frameworks.
 | [Deco AI Sales Assistant](https://github.com/deco-cx/apps) | Multilingual AI sales assistant for e-commerce. | Active |
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
 | [Harvey](https://github.com/ethanplusai/harvey) | Local sales agent for prospecting, personalized outreach, and reply handling, powered by Claude Code or Codex subscriptions. | 2.8k+ |
-| [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server connecting Claude, ChatGPT, and Cursor to B2B outbound sales workflows. 5 tools: build ICP, score leads, draft outreach, research prospects, build sequences. Install: npx mach-gtm-mcp. | 30+ |
+| [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server connecting Claude, ChatGPT, and Cursor to B2B outbound sales workflows. 5 tools: build ICP, score leads, draft outreach, research prospects, build sequences. Install: npx mach-gtm-mcp. | New |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
 | [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 490+ |
 
@@ -269,9 +270,9 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Apollo MCP](https://docs.apollo.io/docs/apollo-mcp) | Official server at mcp.apollo.io. Search, enrich, and sequence from the 265M+ contact database. | Included with Apollo |
 | [Attio MCP](https://docs.attio.com/mcp/overview) | Official remote server. Records, lists, and notes in natural language via OAuth. | Included with Attio |
 | [Close MCP](https://developer.close.com/mcp/) | Official server with read, safe-write, and destructive scopes. | Included with Close |
-| [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server for B2B outbound sales. 5 tools: build ICP, research prospects, score leads (0-100), draft personalised cold email/LinkedIn, and build multi-touch sequences. Install: npx mach-gtm-mcp. | Free (open source) |
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
 | [HubSpot MCP Server](https://developers.hubspot.com/mcp) | Official remote server at mcp.hubspot.com. CRM objects, properties, and reports via OAuth. | Included with HubSpot |
+| [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server for B2B outbound sales. 5 tools: build ICP, research prospects, score leads (0-100), draft personalised cold email/LinkedIn, and build multi-touch sequences. Install: npx mach-gtm-mcp. | Free (open source) |
 | [Sales Engineering Skills](https://github.com/jacobtop-tcg/sales-engineering-skills) | Open-source Agent Skills for presales: Proof of Value plans, MEDDICC qualification, mutual action plans, pre-call plans and stage exit criteria. | Free (open source) |
 | [Salesforce Hosted MCP Servers](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/agentforce.html) | Expose Agentforce agents and prompt templates as MCP tools for external assistants. | Enterprise Edition+ |
 | [Signbee MCP](https://github.com/signbee/mcp) | Close deals autonomously by sending MSAs, NDAs, and contracts for two-party e-signing via [signb.ee](https://signb.ee) and [agent skill](https://github.com/signbee/skill). | Free tier (open source) |
