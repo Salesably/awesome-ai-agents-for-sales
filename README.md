@@ -272,6 +272,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Close MCP](https://developer.close.com/mcp/) | Official server with read, safe-write, and destructive scopes. | Included with Close |
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
 | [HubSpot MCP Server](https://developers.hubspot.com/mcp) | Official remote server at mcp.hubspot.com. CRM objects, properties, and reports via OAuth. | Included with HubSpot |
+| [looot MCP](https://looot.ai) | Remote MCP server at api.looot.ai/mcp: work email and phone lookup, email verification, and company enrichment for agents. | Pay per call, $5 minimum top-up |
 | [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server for B2B outbound sales. 5 tools: build ICP, research prospects, score leads (0-100), draft personalised cold email/LinkedIn, and build multi-touch sequences. Install: npx mach-gtm-mcp. | Free (open source) |
 | [Sales Engineering Skills](https://github.com/jacobtop-tcg/sales-engineering-skills) | Open-source Agent Skills for presales: Proof of Value plans, MEDDICC qualification, mutual action plans, pre-call plans and stage exit criteria. | Free (open source) |
 | [Salesforce Hosted MCP Servers](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/agentforce.html) | Expose Agentforce agents and prompt templates as MCP tools for external assistants. | Enterprise Edition+ |
