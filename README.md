@@ -275,6 +275,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server for B2B outbound sales. 5 tools: build ICP, research prospects, score leads (0-100), draft personalised cold email/LinkedIn, and build multi-touch sequences. Install: npx mach-gtm-mcp. | Free (open source) |
 | [Sales Engineering Skills](https://github.com/jacobtop-tcg/sales-engineering-skills) | Open-source Agent Skills for presales: Proof of Value plans, MEDDICC qualification, mutual action plans, pre-call plans and stage exit criteria. | Free (open source) |
 | [Salesforce Hosted MCP Servers](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/agentforce.html) | Expose Agentforce agents and prompt templates as MCP tools for external assistants. | Enterprise Edition+ |
+| [Skael API MCP](https://api.skael.de/docs/mcp) | Official remote server for German B2B lead lists from the commercial register, Google Maps and job boards, with verified emails. | 30-day trial, then paid |
 | [Signbee MCP](https://github.com/signbee/mcp) | Close deals autonomously by sending MSAs, NDAs, and contracts for two-party e-signing via [signb.ee](https://signb.ee) and [agent skill](https://github.com/signbee/skill). | Free tier (open source) |
 
 ## Agent Frameworks
