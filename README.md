@@ -45,8 +45,8 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [Hermes](https://www.buildwithhermes.com/) | White-label AI voice agent platform for agencies. Runs outbound and inbound calling campaigns with built-in CRM and per-client billing. | $149/mo+ |
 | [Jason AI (Reply.io)](https://reply.io/jason-ai/) | AI assistant for multi-channel outreach sequences. | Included with Reply.io |
 | [Mach GTM](https://machgtm.com) | AI outbound sales agent for B2B software teams (SaaS, IT services, AI services). Builds a Brain from your case studies, finds buying-signal leads, researches each prospect with source-verified facts, and drafts personalised email/LinkedIn/WhatsApp outreach. Every message requires human approval. Open-source MCP server available. | From $1k/seat |
-| [Outlevo](https://outlevo.com/) | Paste your website: it finds companies that fit, researches each from its own pages, writes emails where every claim is quoted from a source, sends from mailboxes it sets up and warms, and books meetings. | Free plan; from $29/mo |
 | [Nooks](https://www.nooks.ai/) | AI dialer plus AI SDR agents for parallel dialing, prospect research, and call coaching. | Contact sales |
+| [Outlevo](https://outlevo.com/) | Paste your website: it finds companies that fit, researches each from its own pages, writes emails where every claim is quoted from a source, sends from mailboxes it sets up and warms, and books meetings. | Free plan; from $29/mo |
 | [Qualified (Piper)](https://www.qualified.com/) | Piper the AI SDR works inbound: engages website visitors, qualifies, and books meetings 24/7. | Contact sales |
 | [Relevance AI](https://relevanceai.com/) | Build and deploy custom AI sales agents with no-code. | Free tier available |
 | [Revnu](https://revnu.com/) | AI growth hire. Finds buyers, writes email and LinkedIn outreach in your voice, handles replies, books meetings. | From $99/mo |
@@ -256,8 +256,8 @@ Open source AI sales agents and frameworks.
 | [Deco AI Sales Assistant](https://github.com/deco-cx/apps) | Multilingual AI sales assistant for e-commerce. | Active |
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
 | [Harvey](https://github.com/ethanplusai/harvey) | Local sales agent for prospecting, personalized outreach, and reply handling, powered by Claude Code or Codex subscriptions. | 2.8k+ |
-| [Outlevo Community](https://github.com/Outlevo/outlevo-community) | Local AI SDR CLI (`npx outlevo start`): from your website to an ICP, matching companies and sourced emails; sends only what you approve from your own mailbox. AGPLv3. | New |
 | [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server connecting Claude, ChatGPT, and Cursor to B2B outbound sales workflows. 5 tools: build ICP, score leads, draft outreach, research prospects, build sequences. Install: npx mach-gtm-mcp. | New |
+| [Outlevo Community](https://github.com/Outlevo/outlevo-community) | Local AI SDR CLI (`npx outlevo start https://yourcompany.com`): from your website to an ICP, matching companies and sourced emails; sends only what you approve from your own mailbox. AGPLv3. | New |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
 | [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 490+ |
 
