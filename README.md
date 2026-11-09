@@ -218,6 +218,7 @@ AI for managing and delivering sales content.
 | [Consensus](https://goconsensus.com/) | Demo automation: AI-personalized interactive video demos with buyer analytics. | Contact sales |
 | [Dock](https://www.dock.us/) | Digital sales rooms with buyer engagement tracking. | Free - $49/mo |
 | [Docket](https://www.docketai.com/) | AI sales engineer that answers technical and RFP questions from your knowledge base. | Contact sales |
+| [Enhanciar](https://enhanciar.in/?utm_source=directory&utm_medium=listing&utm_campaign=salesably-ai-sales) | Answers "what did we promise Acme?" from Slack, Gmail, Notion and Drive with sources, then drafts the follow-up. | $24 - $100/mo |
 | [GTM Buddy](https://www.gtmbuddy.ai/) | Just-in-time enablement and digital sales rooms inside rep workflow. | Contact sales |
 | [Highspot](https://www.highspot.com/) | AI-powered content management with Nexus™ engine. New Agents for coaching (2025). | $50-100/user/mo |
 | [Letter AI](https://www.letter.ai/) | AI-native enablement: content, training, and roleplay in one platform. | Contact sales |
