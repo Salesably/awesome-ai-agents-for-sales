@@ -255,7 +255,7 @@ Open source AI sales agents and frameworks.
 | [Deco AI Sales Assistant](https://github.com/deco-cx/apps) | Multilingual AI sales assistant for e-commerce. | Active |
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
 | [Harvey](https://github.com/ethanplusai/harvey) | Local sales agent for prospecting, personalized outreach, and reply handling, powered by Claude Code or Codex subscriptions. | 2.8k+ |
-| [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server connecting Claude, ChatGPT, and Cursor to B2B outbound sales workflows. 5 tools: build ICP, score leads, draft outreach, research prospects, build sequences. Install: npx mach-gtm-mcp. | New |
+| [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server connecting Claude, ChatGPT, and Cursor to five template-based outbound sales helpers: build ICP, score leads, draft outreach, get a research checklist, build sequences. Works only from what you give it. Install: npx -y github:verma6uc/mach-gtm-mcp. | New |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
 | [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 490+ |
 
@@ -272,7 +272,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Close MCP](https://developer.close.com/mcp/) | Official server with read, safe-write, and destructive scopes. | Included with Close |
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
 | [HubSpot MCP Server](https://developers.hubspot.com/mcp) | Official remote server at mcp.hubspot.com. CRM objects, properties, and reports via OAuth. | Included with HubSpot |
-| [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server for B2B outbound sales. 5 tools: build ICP, research prospects, score leads (0-100), draft personalised cold email/LinkedIn, and build multi-touch sequences. Install: npx mach-gtm-mcp. | Free (open source) |
+| [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server with 5 template-based helpers: build ICP, get a research checklist, score leads (0-100), draft cold email/LinkedIn from signals you provide, and build multi-touch sequences. Install: npx -y github:verma6uc/mach-gtm-mcp. | Free (open source) |
 | [Sales Engineering Skills](https://github.com/jacobtop-tcg/sales-engineering-skills) | Open-source Agent Skills for presales: Proof of Value plans, MEDDICC qualification, mutual action plans, pre-call plans and stage exit criteria. | Free (open source) |
 | [Salesforce Hosted MCP Servers](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/agentforce.html) | Expose Agentforce agents and prompt templates as MCP tools for external assistants. | Enterprise Edition+ |
 | [Signbee MCP](https://github.com/signbee/mcp) | Close deals autonomously by sending MSAs, NDAs, and contracts for two-party e-signing via [signb.ee](https://signb.ee) and [agent skill](https://github.com/signbee/skill). | Free tier (open source) |
