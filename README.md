@@ -83,7 +83,7 @@ Tools for finding and qualifying potential buyers.
 | [Prep5](https://prep5.salesably.ai/) | AI research in under 5 minutes. Generates call scripts, talking points, and prospect intelligence from LinkedIn/email. | $5 credits |
 | [RB2B](https://www.rb2b.com/) | De-anonymizes 70-80% of US website visitors into names, LinkedIn profiles, and emails. | Free tier |
 | [Seamless.AI](https://seamless.ai/) | Real-time B2B contact search with AI verification. | Contact sales |
-| [Sell to State](https://selltostate.com/) | Government tenders and contract awards in 60+ countries for AI agents (MCP, skills, API): open tenders, public buyers, competitor wins. | $49/mo |
+| [Sell to State](https://selltostate.com/) | Government tenders and contract awards in 73 countries for AI agents (MCP, skills, API): open tenders, public buyers, competitor wins. | $49/mo |
 | [UserGems](https://www.usergems.com/) | Tracks job changes of past champions and surfaces warm paths with AI outreach. | Contact sales |
 | [Warmly](https://www.warmly.ai/) | Reveals warm website visitors and auto-engages them via AI chat, email, and LinkedIn. | Free tier |
 | [ZoomInfo](https://www.zoominfo.com/) | Enterprise B2B intelligence platform with AI-powered intent data. | Contact sales |
