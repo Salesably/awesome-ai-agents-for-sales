@@ -46,6 +46,7 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [Jason AI (Reply.io)](https://reply.io/jason-ai/) | AI assistant for multi-channel outreach sequences. | Included with Reply.io |
 | [Mach GTM](https://machgtm.com) | AI outbound sales agent for B2B software teams (SaaS, IT services, AI services). Builds a Brain from your case studies, finds buying-signal leads, researches each prospect with source-verified facts, and drafts personalised email/LinkedIn/WhatsApp outreach. Every message requires human approval. Open-source MCP server available. | From $1k/seat |
 | [Nooks](https://www.nooks.ai/) | AI dialer plus AI SDR agents for parallel dialing, prospect research, and call coaching. | Contact sales |
+| [Outlevo](https://outlevo.com/) | Paste your website: finds companies that fit, researches each, writes source-quoted emails, sends from warmed mailboxes, and books meetings. | Free plan; from $29/mo |
 | [Qualified (Piper)](https://www.qualified.com/) | Piper the AI SDR works inbound: engages website visitors, qualifies, and books meetings 24/7. | Contact sales |
 | [Relevance AI](https://relevanceai.com/) | Build and deploy custom AI sales agents with no-code. | Free tier available |
 | [Revnu](https://revnu.com/) | AI growth hire. Finds buyers, writes email and LinkedIn outreach in your voice, handles replies, books meetings. | From $99/mo |
@@ -82,7 +83,7 @@ Tools for finding and qualifying potential buyers.
 | [Pocus](https://www.pocus.com/) | Signal-based selling: turns product and web intent into AI-prioritized plays. | Contact sales |
 | [Prep5](https://prep5.salesably.ai/) | AI research in under 5 minutes. Generates call scripts, talking points, and prospect intelligence from LinkedIn/email. | $5 credits |
 | [RB2B](https://www.rb2b.com/) | De-anonymizes 70-80% of US website visitors into names, LinkedIn profiles, and emails. | Free tier |
-| [Revenue Scout](https://revenuescout.ai/) | Finds public posts where people need what you sell. You review and post draft replies. | 2,000 free credits once. Paid plans from $49/mo. |
+| [Revenue Scout](https://revenuescout.ai/) | Finds public posts where people need what you sell. You review and post draft replies. | Free credits; $49/mo+ |
 | [Seamless.AI](https://seamless.ai/) | Real-time B2B contact search with AI verification. | Contact sales |
 | [Sell to State](https://selltostate.com/) | Government tenders and contract awards in 73 countries for AI agents (MCP, skills, API): open tenders, public buyers, competitor wins. | $49/mo |
 | [UserGems](https://www.usergems.com/) | Tracks job changes of past champions and surfaces warm paths with AI outreach. | Contact sales |
@@ -257,6 +258,7 @@ Open source AI sales agents and frameworks.
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
 | [Harvey](https://github.com/ethanplusai/harvey) | Local sales agent for prospecting, personalized outreach, and reply handling, powered by Claude Code or Codex subscriptions. | 2.8k+ |
 | [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server connecting Claude, ChatGPT, and Cursor to five template-based outbound sales helpers: build ICP, score leads, draft outreach, get a research checklist, build sequences. Works only from what you give it. Install: npx -y github:verma6uc/mach-gtm-mcp. | New |
+| [Outlevo Community](https://github.com/Outlevo/outlevo-community) | Local AI SDR CLI (`npx outlevo start https://yourcompany.com`): website to ICP, matching companies, and sourced emails. Sends only what you approve. AGPLv3. | New |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
 | [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 490+ |
 
@@ -273,11 +275,12 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Close MCP](https://developer.close.com/mcp/) | Official server with read, safe-write, and destructive scopes. | Included with Close |
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
 | [HubSpot MCP Server](https://developers.hubspot.com/mcp) | Official remote server at mcp.hubspot.com. CRM objects, properties, and reports via OAuth. | Included with HubSpot |
+| [looot MCP](https://looot.ai) | Remote MCP server at api.looot.ai/mcp: work email and phone lookup, email verification, and company enrichment for agents. | Pay per call, $5 minimum top-up |
 | [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server with 5 template-based helpers: build ICP, get a research checklist, score leads (0-100), draft cold email/LinkedIn from signals you provide, and build multi-touch sequences. Install: npx -y github:verma6uc/mach-gtm-mcp. | Free (open source) |
 | [Sales Engineering Skills](https://github.com/jacobtop-tcg/sales-engineering-skills) | Open-source Agent Skills for presales: Proof of Value plans, MEDDICC qualification, mutual action plans, pre-call plans and stage exit criteria. | Free (open source) |
 | [Salesforce Hosted MCP Servers](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/agentforce.html) | Expose Agentforce agents and prompt templates as MCP tools for external assistants. | Enterprise Edition+ |
-| [Skael API MCP](https://api.skael.de/docs/mcp) | Official remote server for German B2B lead lists from the commercial register, Google Maps and job boards, with verified emails. | 30-day trial, then paid |
 | [Signbee MCP](https://github.com/signbee/mcp) | Close deals autonomously by sending MSAs, NDAs, and contracts for two-party e-signing via [signb.ee](https://signb.ee) and [agent skill](https://github.com/signbee/skill). | Free tier (open source) |
+| [Skael API MCP](https://api.skael.de/docs/mcp) | Official remote server for German B2B lead lists from the commercial register, Google Maps and job boards, with verified emails. | 30-day trial, then paid |
 
 ## Agent Frameworks
 
