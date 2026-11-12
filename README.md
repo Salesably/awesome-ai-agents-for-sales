@@ -274,6 +274,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Attio MCP](https://docs.attio.com/mcp/overview) | Official remote server. Records, lists, and notes in natural language via OAuth. | Included with Attio |
 | [Close MCP](https://developer.close.com/mcp/) | Official server with read, safe-write, and destructive scopes. | Included with Close |
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
+| [Honk](https://github.com/danii1/honk-crm) | Self-hosted CRM MCP server for leads, conversations, drafts, follow-ups, and pipeline records. | Free (self-hosted, AGPL-3.0) |
 | [HubSpot MCP Server](https://developers.hubspot.com/mcp) | Official remote server at mcp.hubspot.com. CRM objects, properties, and reports via OAuth. | Included with HubSpot |
 | [looot MCP](https://looot.ai) | Remote MCP server at api.looot.ai/mcp: work email and phone lookup, email verification, and company enrichment for agents. | Pay per call, $5 minimum top-up |
 | [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server with 5 template-based helpers: build ICP, get a research checklist, score leads (0-100), draft cold email/LinkedIn from signals you provide, and build multi-touch sequences. Install: npx -y github:verma6uc/mach-gtm-mcp. | Free (open source) |
