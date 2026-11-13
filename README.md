@@ -273,6 +273,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Apollo MCP](https://docs.apollo.io/docs/apollo-mcp) | Official server at mcp.apollo.io. Search, enrich, and sequence from the 265M+ contact database. | Included with Apollo |
 | [Attio MCP](https://docs.attio.com/mcp/overview) | Official remote server. Records, lists, and notes in natural language via OAuth. | Included with Attio |
 | [Close MCP](https://developer.close.com/mcp/) | Official server with read, safe-write, and destructive scopes. | Included with Close |
+| [CorpusIQ](https://www.corpusiq.io/?utm_source=github&utm_medium=referral&utm_campaign=awesome-list) | Official hosted MCP server at mcp2.corpusiq.io/mcp. Gives an agent read-only answers across 40+ business systems (HubSpot, Salesforce, Stripe, Google Analytics 4, Shopify, QuickBooks) with the source records cited behind each figure. | 30-day trial, no credit card, then paid |
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
 | [HubSpot MCP Server](https://developers.hubspot.com/mcp) | Official remote server at mcp.hubspot.com. CRM objects, properties, and reports via OAuth. | Included with HubSpot |
 | [looot MCP](https://looot.ai) | Remote MCP server at api.looot.ai/mcp: work email and phone lookup, email verification, and company enrichment for agents. | Pay per call, $5 minimum top-up |
