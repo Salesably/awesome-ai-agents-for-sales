@@ -114,7 +114,7 @@ Multi-channel sales engagement platforms.
 | [Salesloft](https://www.salesloft.com/) | Sales engagement with AI-powered cadences and analytics. Merged with Clari (2025). | Contact sales |
 | [Smartlead](https://www.smartlead.ai/) | Unlimited mailboxes with AI warmup and rotation. | $39/mo+ |
 | [Woodpecker](https://woodpecker.co/) | Cold email and LinkedIn outreach with deliverability tooling and AI copy. | $29/mo+ |
-| [warmed-up.email](https://warmed-up.email/) | Pre-warmed Google Workspace & Microsoft 365 mailbox fleets with 42-day ramp algorithm, peer-to-peer conversation engine, and spam rescue watchdog. | From $39/mo |
+| [warmed-up.email](https://warmed-up.email/) | Pre-warmed Google Workspace & Microsoft 365 mailbox fleets with 42-day ramp algorithm, peer-to-peer conversation engine, and spam rescue watchdog. | $59 initial, then $39/mo |
 
 ## Email Personalization & Copywriting
 
