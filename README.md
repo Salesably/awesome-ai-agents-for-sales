@@ -261,6 +261,8 @@ Open source AI sales agents and frameworks.
 | [Outlevo Community](https://github.com/Outlevo/outlevo-community) | Local AI SDR CLI (`npx outlevo start https://yourcompany.com`): website to ICP, matching companies, and sourced emails. Sends only what you approve. AGPLv3. | New |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
 | [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 490+ |
+| [WarmySender](https://github.com/warmysender-oss/warmysender) | Self-hostable cold email engine (AGPL-3.0) with sequences and an MCP server; agents can't send directly or raise limits. | New |
+
 
 ## MCP Servers & Agent Skills
 
