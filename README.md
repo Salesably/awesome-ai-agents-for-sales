@@ -253,15 +253,11 @@ Open source AI sales agents and frameworks.
 
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [AI-Cold-Email-Generator](https://github.com/trancethehuman/ai-cold-email-generator) | Generate personalized cold emails with AI. | 100+ |
-| [Beton Inspector](https://github.com/getbeton/inspector) | Open-source revenue intelligence. Connects PostHog product usage to your CRM and auto-detects buying, expansion, and churn signals. Self-hostable (AGPLv3). | 30+ |
-| [Deco AI Sales Assistant](https://github.com/deco-cx/apps) | Multilingual AI sales assistant for e-commerce. | Active |
-| [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
-| [Harvey](https://github.com/ethanplusai/harvey) | Local sales agent for prospecting, personalized outreach, and reply handling, powered by Claude Code or Codex subscriptions. | 2.8k+ |
 | [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server connecting Claude, ChatGPT, and Cursor to five template-based outbound sales helpers: build ICP, score leads, draft outreach, get a research checklist, build sequences. Works only from what you give it. Install: npx -y github:verma6uc/mach-gtm-mcp. | New |
 | [Outlevo Community](https://github.com/Outlevo/outlevo-community) | Local AI SDR CLI (`npx outlevo start https://yourcompany.com`): website to ICP, matching companies, and sourced emails. Sends only what you approve. AGPLv3. | New |
-| [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
-| [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 490+ |
+| [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 2.8k+ |
+| [Sellbird (formerly Harvey)](https://github.com/ethanplusai/sellbird) | Local sales agent that finds companies and decision makers, verifies emails, writes and sends cold email, and handles replies. Runs on your Claude or ChatGPT plan. | 6.8k+ |
+| [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 1k+ |
 | [WarmySender](https://github.com/warmysender-oss/warmysender) | Self-hostable cold email engine (AGPL-3.0) with sequences and an MCP server; agents can't send directly or raise limits. | New |
 
 ## MCP Servers & Agent Skills
