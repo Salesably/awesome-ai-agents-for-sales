@@ -42,6 +42,7 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [Amplemarket](https://www.amplemarket.com/) | Duo AI copilot for outbound: finds buyers, writes multichannel sequences, surfaces intent signals. | Contact sales |
 | [Artisan (Ava)](https://www.artisan.co/) | AI BDR that automates 80% of outbound tasks. 300M+ B2B contacts, intent signals, multi-channel outreach. | Contact sales |
 | [Conversica](https://www.conversica.com/) | Revenue Digital Assistants hold two-way email and SMS conversations to qualify and hand off leads. | Contact sales |
+| [GrowFast](https://growfast.sh/) | Give it your product's domain: it finds matching B2B companies from a web index, links each contact address to the public page it was read from, drafts the first email and sends it. Also an MCP server for Claude and ChatGPT. | From $49/mo |
 | [Hermes](https://www.buildwithhermes.com/) | White-label AI voice agent platform for agencies. Runs outbound and inbound calling campaigns with built-in CRM and per-client billing. | $149/mo+ |
 | [Jason AI (Reply.io)](https://reply.io/jason-ai/) | AI assistant for multi-channel outreach sequences. | Included with Reply.io |
 | [Mach GTM](https://machgtm.com) | AI outbound sales agent for B2B software teams (SaaS, IT services, AI services). Builds a Brain from your case studies, finds buying-signal leads, researches each prospect with source-verified facts, and drafts personalised email/LinkedIn/WhatsApp outreach. Every message requires human approval. Open-source MCP server available. | From $1k/seat |
