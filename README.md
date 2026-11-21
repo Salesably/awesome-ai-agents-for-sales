@@ -292,7 +292,6 @@ Build your own AI sales agents with these frameworks.
 | Framework | Description | Best For |
 |-----------|-------------|----------|
 | [AgentOps](https://github.com/AgentOps-AI/agentops) | Monitoring and observability for AI agents. | Agent debugging |
-| [AutoGen (Microsoft)](https://github.com/microsoft/autogen) | Multi-agent conversation framework. | Complex conversations |
 | [Claude Agent SDK](https://docs.claude.com/en/api/agent-sdk/overview) | Anthropic's SDK with the same agent loop as Claude Code: tools, MCP, subagents, permissions. | Production agents |
 | [CrewAI](https://www.crewai.com/) | Open source multi-agent orchestration. Role-based agents ideal for sales teams. | Multi-agent workflows |
 | [Google ADK](https://google.github.io/adk-docs/) | Multi-agent framework with built-in evaluation and Vertex AI deployment. | Google Cloud stacks |
