@@ -42,7 +42,7 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [Amplemarket](https://www.amplemarket.com/) | Duo AI copilot for outbound: finds buyers, writes multichannel sequences, surfaces intent signals. | Contact sales |
 | [Artisan (Ava)](https://www.artisan.co/) | AI BDR that automates 80% of outbound tasks. 300M+ B2B contacts, intent signals, multi-channel outreach. | Contact sales |
 | [Conversica](https://www.conversica.com/) | Revenue Digital Assistants hold two-way email and SMS conversations to qualify and hand off leads. | Contact sales |
-| [GrowFast](https://growfast.sh/) | Give it your product's domain: it finds matching B2B companies from a web index, links each contact address to the public page it was read from, drafts the first email and sends it. Also an MCP server for Claude and ChatGPT. | From $49/mo |
+| [GrowFast](https://growfast.sh/) | Give it your domain: finds matching B2B companies, cites the public source of each contact, then drafts and sends the first email. MCP server included. | From $49/mo |
 | [Hermes](https://www.buildwithhermes.com/) | White-label AI voice agent platform for agencies. Runs outbound and inbound calling campaigns with built-in CRM and per-client billing. | $149/mo+ |
 | [Jason AI (Reply.io)](https://reply.io/jason-ai/) | AI assistant for multi-channel outreach sequences. | Included with Reply.io |
 | [Mach GTM](https://machgtm.com) | AI outbound sales agent for B2B software teams (SaaS, IT services, AI services). Builds a Brain from your case studies, finds buying-signal leads, researches each prospect with source-verified facts, and drafts personalised email/LinkedIn/WhatsApp outreach. Every message requires human approval. Open-source MCP server available. | From $1k/seat |
@@ -264,7 +264,6 @@ Open source AI sales agents and frameworks.
 | [Warmbly](https://github.com/warmbly/warmbly) | AI-native cold email and warmup platform with agentic automations and deliverability controls. | 490+ |
 | [WarmySender](https://github.com/warmysender-oss/warmysender) | Self-hostable cold email engine (AGPL-3.0) with sequences and an MCP server; agents can't send directly or raise limits. | New |
 
-
 ## MCP Servers & Agent Skills
 
 Plug AI agents straight into your sales stack. Official [Model Context Protocol](https://modelcontextprotocol.io/) servers and ready-made agent skills.
@@ -280,12 +279,14 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
 | [Honk](https://github.com/danii1/honk-crm) | Self-hosted CRM MCP server for leads, conversations, drafts, follow-ups, and pipeline records. | Free (self-hosted, AGPL-3.0) |
 | [HubSpot MCP Server](https://developers.hubspot.com/mcp) | Official remote server at mcp.hubspot.com. CRM objects, properties, and reports via OAuth. | Included with HubSpot |
+| [Leadsets](https://www.leadsets.ai) | Remote MCP server at mcp.leadsets.ai: B2B people and company search, enrichment, and work email verification for agents. Plus 50 open-source [GTM skills](https://github.com/leadsets/leadsets-skills). | Free 1,000 records; from $29/mo |
 | [Linkedcamp MCP](https://docs.linkedcamp.com/mcp/overview) | Official remote server at mcp.linkedcamp.com. LinkedIn and email campaigns, unified inbox, leads and analytics in 133 tools. | Included with Linkedcamp, from $79/mo |
 | [looot MCP](https://looot.ai) | Remote MCP server at api.looot.ai/mcp: work email and phone lookup, email verification, and company enrichment for agents. | Pay per call, $5 minimum top-up |
 | [Mach GTM MCP](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server with 5 template-based helpers: build ICP, get a research checklist, score leads (0-100), draft cold email/LinkedIn from signals you provide, and build multi-touch sequences. Install: npx -y github:verma6uc/mach-gtm-mcp. | Free (open source) |
 | [Sales Engineering Skills](https://github.com/jacobtop-tcg/sales-engineering-skills) | Open-source Agent Skills for presales: Proof of Value plans, MEDDICC qualification, mutual action plans, pre-call plans and stage exit criteria. | Free (open source) |
 | [Salesforce Hosted MCP Servers](https://developer.salesforce.com/docs/platform/hosted-mcp-servers/guide/agentforce.html) | Expose Agentforce agents and prompt templates as MCP tools for external assistants. | Enterprise Edition+ |
 | [Signbee MCP](https://github.com/signbee/mcp) | Close deals autonomously by sending MSAs, NDAs, and contracts for two-party e-signing via [signb.ee](https://signb.ee) and [agent skill](https://github.com/signbee/skill). | Free tier (open source) |
+| [SimpleVerifier MCP](https://simpleverifier.com/docs/mcp) | Official remote server at simpleverifier.com/api/mcp. Lets agents verify emails with a live SMTP mailbox check and check phone numbers before a sequence sends, via OAuth or API key. | Pro plan ($39/mo) and up |
 | [Skael API MCP](https://api.skael.de/docs/mcp) | Official remote server for German B2B lead lists from the commercial register, Google Maps and job boards, with verified emails. | 30-day trial, then paid |
 
 ## Agent Frameworks
