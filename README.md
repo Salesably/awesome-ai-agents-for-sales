@@ -275,6 +275,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
 | [Honk](https://github.com/danii1/honk-crm) | Self-hosted CRM MCP server for leads, conversations, drafts, follow-ups, and pipeline records. | Free (self-hosted, AGPL-3.0) |
 | [HubSpot MCP Server](https://developers.hubspot.com/mcp) | Official remote server at mcp.hubspot.com. CRM objects, properties, and reports via OAuth. | Included with HubSpot |
+| [Kata Send](https://katasend.com) | Remote MCP server for cold email. Agents send to a lead list, follow up and answer replies. | 100 free emails; from $0.02/email |
 | [Leadsets](https://www.leadsets.ai) | Remote MCP server at mcp.leadsets.ai: B2B people and company search, enrichment, and work email verification for agents. Plus 50 open-source [GTM skills](https://github.com/leadsets/leadsets-skills). | Free 1,000 records; from $29/mo |
 | [Linkedcamp MCP](https://docs.linkedcamp.com/mcp/overview) | Official remote server at mcp.linkedcamp.com. LinkedIn and email campaigns, unified inbox, leads and analytics in 133 tools. | Included with Linkedcamp, from $79/mo |
 | [looot MCP](https://looot.ai) | Remote MCP server at api.looot.ai/mcp: work email and phone lookup, email verification, and company enrichment for agents. | Pay per call, $5 minimum top-up |
