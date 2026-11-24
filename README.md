@@ -55,6 +55,7 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [Salesforce Agentforce](https://www.salesforce.com/agentforce/) | AI agents for prospecting, coaching, and CRM automation within Salesforce ecosystem. | Salesforce add-on |
 | [Salesforge (Agent Frank)](https://www.salesforge.ai/) | Autonomous AI SDR that writes, sends, and replies across unlimited mailboxes with built-in warmup. | $48/mo+ |
 | [Unify](https://www.unifygtm.com/) | Warm outbound platform: intent signals, AI research agents, and sequencing in one system. | Contact sales |
+| [Vendo AI](https://vendo-ai.com/vendo-sdr/) | AI SDR: 24 signal hunters spot hiring, funding and leadership changes, find the decision-maker and draft the first email or LinkedIn message. | Free start; from $99/mo |
 | [VoiceOI](https://voiceoi.com/) | No-code outbound AI voice bots: qualify leads, live-transfer qualified callers to closers. VICIdial remote agents or any SIP carrier. | $30/bot/mo+ (prepaid) |
 | [Workforce Wave](https://www.workforcewave.com/) | AI voice agent for inbound calls. Answers 24/7, books appointments, and captures leads for small and mid-sized businesses. | Contact sales |
 
