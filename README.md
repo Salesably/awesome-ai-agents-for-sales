@@ -90,6 +90,12 @@ Tools for finding and qualifying potential buyers.
 | [UserGems](https://www.usergems.com/) | Tracks job changes of past champions and surfaces warm paths with AI outreach. | Contact sales |
 | [Warmly](https://www.warmly.ai/) | Reveals warm website visitors and auto-engages them via AI chat, email, and LinkedIn. | Free tier |
 | [ZoomInfo](https://www.zoominfo.com/) | Enterprise B2B intelligence platform with AI-powered intent data. | Contact sales |
+| [Company Social Profile Finder](https://apify.com/publicrecords/company-social-profile-finder) | Company domain or name to its LinkedIn, X, YouTube, Instagram and Facebook links, with confidence scores (Apify Actor, API + MCP) |  |
+| [Google Ads Transparency Scraper](https://apify.com/publicrecords/google-ads-transparency-scraper) | Google ads a competitor runs, from the Ads Transparency Center, with first and last shown dates (Apify Actor, API + MCP) |  |
+| [Ashby Jobs Scraper](https://apify.com/publicrecords/ashby-jobs-scraper) | New job postings from any Ashby job board since a date or window (24h, 7d, 30d) (Apify Actor, API + MCP) |  |
+| [Greenhouse Jobs Scraper](https://apify.com/publicrecords/greenhouse-jobs-scraper) | New job postings from any Greenhouse job board since a date or window (Apify Actor, API + MCP) |  |
+| [Lever Jobs Scraper](https://apify.com/publicrecords/lever-jobs-scraper) | New job postings from any Lever job board since a date or window (Apify Actor, API + MCP) |  |
+| [SmartRecruiters Jobs Scraper](https://apify.com/publicrecords/smartrecruiters-jobs-scraper) | New job postings from any SmartRecruiters careers site since a date or window (Apify Actor, API + MCP) |  |
 
 ## Outreach & Engagement
 
