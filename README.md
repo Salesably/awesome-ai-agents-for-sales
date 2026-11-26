@@ -54,6 +54,7 @@ Fully autonomous agents that handle end-to-end outbound prospecting.
 | [Rox](https://www.rox.com/) | Agent swarms for AEs: generate pipeline, qualify, manage deals, expand accounts. Built for the Global 2000. | Contact sales |
 | [Salesforce Agentforce](https://www.salesforce.com/agentforce/) | AI agents for prospecting, coaching, and CRM automation within Salesforce ecosystem. | Salesforce add-on |
 | [Salesforge (Agent Frank)](https://www.salesforge.ai/) | Autonomous AI SDR that writes, sends, and replies across unlimited mailboxes with built-in warmup. | $48/mo+ |
+| [SoloRiff](https://soloriff.com/) | Give it your website: finds the buyers and the right people in them, verifies every address, writes to each one, answers replies, runs the product demo on a live call and books the meeting. | Pay as you go, from $0.16 per lead |
 | [Unify](https://www.unifygtm.com/) | Warm outbound platform: intent signals, AI research agents, and sequencing in one system. | Contact sales |
 | [VoiceOI](https://voiceoi.com/) | No-code outbound AI voice bots: qualify leads, live-transfer qualified callers to closers. VICIdial remote agents or any SIP carrier. | $30/bot/mo+ (prepaid) |
 | [Workforce Wave](https://www.workforcewave.com/) | AI voice agent for inbound calls. Answers 24/7, books appointments, and captures leads for small and mid-sized businesses. | Contact sales |
