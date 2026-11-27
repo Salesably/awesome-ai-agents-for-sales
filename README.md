@@ -270,6 +270,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Anthropic Sales Plugin](https://github.com/anthropics/knowledge-work-plugins/tree/main/sales) | Open-source Claude plugin: account research, call prep, pipeline review, forecast, and CRM hygiene skills. | Free (open source) |
 | [Apollo MCP](https://docs.apollo.io/docs/apollo-mcp) | Official server at mcp.apollo.io. Search, enrich, and sequence from the 265M+ contact database. | Included with Apollo |
 | [Attio MCP](https://docs.attio.com/mcp/overview) | Official remote server. Records, lists, and notes in natural language via OAuth. | Included with Attio |
+| [B2B Market Intel MCP](https://github.com/truonggiang0111/b2b-market-intel-mcp) | Open-source zero-key MCP server extracting UK gov tenders, biotech trial sponsors, Google News leads, and app churn signals. | Free (MIT); optional Apify |
 | [Close MCP](https://developer.close.com/mcp/) | Official server with read, safe-write, and destructive scopes. | Included with Close |
 | [Customermates MCP](https://github.com/customermates/customermates) | CRM with a native MCP endpoint. Agents read and write records and draft replies that you review. | Free plan; from €12/user/mo |
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
