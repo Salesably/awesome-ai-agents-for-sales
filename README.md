@@ -253,6 +253,7 @@ Open source AI sales agents and frameworks.
 
 | Project | Description | Stars |
 |---------|-------------|-------|
+| [EXTREMELY Autonomous Agents](https://github.com/maxkxd/extremely-autonomous-agents) | Free, open-source AI agency that runs on your own computer. Sales agents work around the clock, and you choose per tool whether they act silently, log or ask first. Mac, Windows and Linux. | New |
 | [mach-gtm-mcp](https://github.com/verma6uc/mach-gtm-mcp) | Open-source MCP server connecting Claude, ChatGPT, and Cursor to five template-based outbound sales helpers: build ICP, score leads, draft outreach, get a research checklist, build sequences. Works only from what you give it. Install: npx -y github:verma6uc/mach-gtm-mcp. | New |
 | [Outlevo Community](https://github.com/Outlevo/outlevo-community) | Local AI SDR CLI (`npx outlevo start https://yourcompany.com`): website to ICP, matching companies, and sourced emails. Sends only what you approve. AGPLv3. | New |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 2.8k+ |
