@@ -271,6 +271,7 @@ Plug AI agents straight into your sales stack. Official [Model Context Protocol]
 | [Apollo MCP](https://docs.apollo.io/docs/apollo-mcp) | Official server at mcp.apollo.io. Search, enrich, and sequence from the 265M+ contact database. | Included with Apollo |
 | [Attio MCP](https://docs.attio.com/mcp/overview) | Official remote server. Records, lists, and notes in natural language via OAuth. | Included with Attio |
 | [Close MCP](https://developer.close.com/mcp/) | Official server with read, safe-write, and destructive scopes. | Included with Close |
+| [Crunchbase Company MCP](https://apify.com/johnvc/crunchbase-company-api) | Remote MCP server on mcp.apify.com. Looks up companies by Crunchbase URL for funding rounds, investors, industries, HQ and headcount. | Pay per company; Apify free plan |
 | [Customermates MCP](https://github.com/customermates/customermates) | CRM with a native MCP endpoint. Agents read and write records and draft replies that you review. | Free plan; from €12/user/mo |
 | [Fireflies MCP](https://docs.fireflies.ai/mcp) | Search meetings and pull transcripts and summaries into any agent. | Included with Fireflies |
 | [Honk](https://github.com/danii1/honk-crm) | Self-hosted CRM MCP server for leads, conversations, drafts, follow-ups, and pipeline records. | Free (self-hosted, AGPL-3.0) |
